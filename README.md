@@ -11,6 +11,6 @@ TECHNOLOGIES USED:
 
   HTML5 - Used for the basic structure and content of the website. 
   
-  CSS3 - Used for styling the website and creating a warm, cozy aesthetic. 
+  CSS3 - Used for styling the website and creating a warm website. 
   
   Responsive Design - Ensuring the site looks great on all devices.
