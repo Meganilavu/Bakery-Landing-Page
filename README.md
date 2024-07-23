@@ -1,5 +1,6 @@
 # Bakery-Landing-Page
-Home Bakery Landing Page :
+Home Bakery Landing Page : https://github.com/Meganilavu/Bakery-Landing-Page
+
 FEATURES:
 
 Menu Display: Detailed sections for cakes, cookies, and breads.
