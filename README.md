@@ -1,5 +1,5 @@
 # Bakery-Landing-Page
-Home Bakery Landing Page : https://github.com/Meganilavu/Bakery-Landing-Page
+Home Bakery Landing Page : https://meganilavu.github.io/Bakery-Landing-Page/
 
 FEATURES:
 
